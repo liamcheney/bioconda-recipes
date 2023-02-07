@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/LanLab/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: f849d50e83a6159a7ba48cd77faa80a4ca74e31a9db48af3cd5ab4fda5eb0b39
+  sha256: 88871968a9dd1cf3a6d4976a4fdf930f146f569ef2facc34bb946d605b77d65e
 
 build:
   noarch: python
